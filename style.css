@@ -1,0 +1,29 @@
+body{
+
+    text-decoration: solid;
+    background: radial-gradient();
+}
+
+h2{
+    color: rgb(7, 241, 152);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    top: 25px;
+}
+
+p{
+    color: rgb(0, 0, 0);
+}
+
+.formulario{
+    text-align: center;
+    position: relative;
+    top: 26px;
+}
+
+#pd{
+    text-align: center;
+    position: relative;
+    top: 26px;
+}
